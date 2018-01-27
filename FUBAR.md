@@ -1,4 +1,6 @@
-This lab is fubar
+
+
+This is taking way to long for the same thing over and over
 
 Thsi si for the mc-exercise on merge conflict
 OCOECOEOCOECEOCO
@@ -15,3 +17,4 @@ The best exercise ever.
 Here we go again. Yo i'm sick of this
 
 I blame Allie for all of this
+
